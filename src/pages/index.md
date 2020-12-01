@@ -3,7 +3,7 @@ templateKey: index-page
 title: Connect Real Estate
 image: /img/home-jumbotron.jpg
 heading: Connect Real Estate
-subheading: Support sustainable farming while enjoying a cup
+subheading: We Make it Easy for You to Be the Clear Choice to Your ideal Real Estate Audience
 mainpitch:
   title: Why Connect?
   description: >
