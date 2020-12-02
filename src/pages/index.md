@@ -7,10 +7,9 @@ subheading: We Make it Easy for You to Be the Clear Choice to Your ideal Real Es
 mainpitch:
   title: Why Connect?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Connect Real Estate Creative provides marketing and strategy to 
+    get you seen as more than "Just Another Real Estate Team". We give all 
+    of our customers a free no commitment audit and consultation.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
