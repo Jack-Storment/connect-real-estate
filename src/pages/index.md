@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Connect Real Estate
+title: Connect
 image: /img/home-jumbotron.jpg
 heading: Connect Real Estate
 subheading: We Make it Easy for You to Be the Clear Choice to Your ideal Real Estate Audience.
