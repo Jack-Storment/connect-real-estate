@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Connect
+title: Connect Real Estate Creative
 image: /img/home-jumbotron.jpg
 heading: Connect Real Estate
 subheading: We Make it Easy for You to Be the Clear Choice to Your ideal Real Estate Audience.
 mainpitch:
-  title: Why Connect?
+  title: Connect
   description: >
     Connect Real Estate Creative provides marketing and strategy to 
     get you seen as more than "Just Another Real Estate Team". We give all 
