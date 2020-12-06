@@ -1,20 +1,18 @@
 ---
 templateKey: index-page
-title: Connect
+title: Connect Real Estate Creative
 image: /img/home-jumbotron.jpg
 heading: Connect Real Estate
 subheading: We Make it Easy for You to Be the Clear Choice to Your ideal Real Estate Audience.
 mainpitch:
-  title: Why Connect?
+  title: Connect
   description: >
     Connect Real Estate Creative provides marketing and strategy to 
     get you seen as more than "Just Another Real Estate Team". We give all 
     of our customers a free no commitment audit and consultation.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We Make it Easy for You to Consistently Deliver Valuable Emails, Retargeted Ads, 
+  Videos, and Posts to Get Your Audience Sold By Themselves on Your Real Estate Services.
 intro:
   blurbs:
     - image: /img/coffee.png
