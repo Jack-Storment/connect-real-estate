@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Connect Real Estate Creative
 image: /img/home-jumbotron.jpg
-heading: We Help You Make Content that Gains Love and Trust You from Your ideal Audience.
+heading: Develop a Content Plan to Gain Love and Trust You from Your Audience.
 subheading: We Make it Easy for You to Consistently Deliver Valuable Emails, Retargeted Ads, Videos, and Posts to Get Your Audience Sold By Themselves on Your Real Estate Services.
 mainpitch:
   title: Connect
