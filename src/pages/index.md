@@ -7,9 +7,7 @@ subheading: We Make it Easy for You to Be the Clear Choice to Your ideal Real Es
 mainpitch:
   title: Connect
   description: >
-    Connect Real Estate Creative provides marketing and strategy to 
-    get you seen as more than "Just Another Real Estate Team". We give all 
-    of our customers a free no commitment audit and consultation.
+    Be the Team Agents Love Being On and Clients Love Telling Their Friends About.
 description: >-
   We Make it Easy for You to Consistently Deliver Valuable Emails, Retargeted Ads, 
   Videos, and Posts to Get Your Audience Sold By Themselves on Your Real Estate Services.
