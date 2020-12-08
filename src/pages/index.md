@@ -2,12 +2,12 @@
 templateKey: index-page
 title: Connect Real Estate Creative
 image: /img/home-jumbotron.jpg
-heading: We Help You Develop Real Estate Content to Get You Love and Trusted by You Your Audience.
-subheading: We Help You Develop Content and Get You Repeatedly Seen by You ideal Real Estate Audience.
+heading: We Help 
+subheading: We Help You Develop Content and Get You Repeatedly Seen by Your ideal Audience.
 mainpitch:
   title: Connect
   description: >
-    Be the Team Agents Love Being On and Clients Love Telling Their Friends About.
+  Be the Team Agents Love Being On and Clients Love Telling Their Friends About.
 description: >-
   We Make it Easy for You to Consistently Deliver Valuable Emails, Retargeted Ads, 
   Videos, and Posts to Get Your Audience Sold By Themselves on Your Real Estate Services.
